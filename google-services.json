@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "955819361469",
+    "project_id": "mealstogo-8cfae",
+    "storage_bucket": "mealstogo-8cfae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955819361469:android:05a827868586b46e0923d4",
+        "android_client_info": {
+          "package_name": "com.gaurav89.meals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955819361469-6s7tdjtk1pog328tke3sa75c091u7rv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav89.meals",
+            "certificate_hash": "cb3de751fd1d4728a8dcca5a7f61155331092e19"
+          }
+        },
+        {
+          "client_id": "955819361469-e9ngnc0p7kimd0vu9rkvam6falej76us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav89.meals",
+            "certificate_hash": "6bd8783b99c9714b782285dfcf1679e39582105f"
+          }
+        },
+        {
+          "client_id": "955819361469-t240dfotu5437ie5p7tdnu8diu33hepf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7vjC1QoQ8jSd46DWK1sIfwyPzCyBGDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955819361469-t240dfotu5437ie5p7tdnu8diu33hepf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
