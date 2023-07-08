@@ -16,6 +16,7 @@
     "@react-navigation/bottom-tabs": "^6.5.6",
     "@react-navigation/native": "^6.1.5",
     "@react-navigation/stack": "^6.3.16",
+    "@rnmapbox/maps": "^10.0.9-rc.1",
     "camelize": "^1.0.1",
     "expo": "~47.0.14",
     "expo-font": "~11.0.1",
